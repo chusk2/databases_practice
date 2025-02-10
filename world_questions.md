@@ -36,3 +36,43 @@
 29. Identify the country with the lowest population density (population/surface area).
 30. List all landlocked countries (countries that do not border an ocean or sea).
 
+world_db_.md
+\n\n
+
+
+
+# Advanced MySQL Practice Questions (World Database)
+
+### **1. Multiple JOINs**
+Find the top 3 most spoken languages (by population) and their respective countries.
+
+### **2. Subqueries in WHERE Clause**
+List all countries where the population is **greater** than the **average population** of all countries.
+
+### **3. Nested Aggregation**
+For each continent, find the country with the highest GDP (`GNP`). Show the continent, country name, and GNP.
+
+### **4. Recursive Subqueries**
+Find the second most populated city in **China** (`CHN`).
+
+### **5. Complex GROUP BY and HAVING**
+List countries where more than **5 cities** have a population **greater than 500,000**.
+
+### **6. Window Functions with PARTITION**
+For each continent, rank the top 3 countries by population using a **window function**.
+
+### **7. Self JOIN**
+Find pairs of countries that **share the same official language** but belong to **different continents**.
+
+### **8. Correlated Subquery**
+Find all cities where the population is **greater than 10%** of their country's total population.
+
+### **9. Conditional Aggregation**
+For each country, count how many cities have a **population above and below 1 million**. Display the counts as two separate columns.
+
+### **10. Advanced LIKE and REGEXP**
+Find all countries whose names contain at **least three vowels** (`a, e, i, o, u`).
+
+---
+### **Bonus Challenge**
+Can you optimize queries 3, 6, and 8 using indexes or alternative approaches?
