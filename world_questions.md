@@ -25,20 +25,16 @@
 20. List all countries that do not have an official language.
 
 ## Advanced Level
-21. Find the country with the highest GDP (using GNP as an approximation).
-22. Identify the city with the highest population density.
-23. Retrieve the most common official language spoken across all countries.
-24. List all continents sorted by their total population in descending order.
-25. Find the country with the highest number of official languages.
-26. Identify the top 3 countries with the highest GNP per capita.
-27. Find countries where the capital city's population is more than 10% of the country's total population.
-28. Retrieve the countries that have more than 5 official languages.
-29. Identify the country with the lowest population density (population/surface area).
-30. List all landlocked countries (countries that do not border an ocean or sea).
-
-world_db_.md
-\n\n
-
+### 21. Find the country with the highest GDP (using GNP as an approximation).
+### 22. Identify the city with the highest population density.
+### 23. Retrieve the most common official language spoken across all countries.
+### 24. List all continents sorted by their total population in descending order.
+### 25. Find the country with the highest number of official languages.
+### 26. Identify the top 3 countries with the highest GNP per capita.
+### 27. Find countries where the capital city's population is more than 10% of the country's total population.
+### 28. Retrieve the countries that have more than 5 official languages.
+### 29. Identify the country with the lowest population density (population/surface area).
+### 30. List all landlocked countries (countries that do not border an ocean or sea).
 
 
 # Advanced MySQL Practice Questions (World Database)
